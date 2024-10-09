@@ -12,4 +12,9 @@ Todo :
 - 傳送至 Line Notify
 - 多頁資料
 
-demo url = https://www.rakuya.com.tw/rent/rent_search?search=city&city=8&zipcode=403&keyword=學校&sort=21&upd=1
+網址結構： 
+`https://www.rakuya.com.tw/rent/rent_search?search=city&city=8&zipcode=403&keyword=學校&sort=21&upd=1`
+
+全台灣縣市鄉鎮區郵遞區號：
+`https://gist.github.com/wastu01/63bc811568fcefa1d54388a7b0287108`
+
